@@ -19,6 +19,14 @@ The project features a **ChatGPT-style React Frontend** with **Citation Inspecti
 
 ---
 
+## 🎬 Video Demo Walkthrough
+
+[![Advanced Multi-PDF RAG System Demo](https://img.youtube.com/vi/bh_6XDT8_zY/maxresdefault.jpg)](https://youtu.be/bh_6XDT8_zY "Click to watch full video demo on YouTube")
+
+> 💡 *Click the high-resolution video card above to watch the complete technical demo and system architecture walkthrough.*
+
+---
+
 ## 🏗️ System Architecture
 
 ```mermaid
