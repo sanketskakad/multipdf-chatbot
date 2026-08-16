@@ -3,9 +3,11 @@
 > **Sub-second, Production-Grade RAG Engine with Pre-Cached Vector Indexing, Page-Aware Chunking, Dual Dense-Sparse Retrieval, FlashRank Re-ranking, and Groq Llama 3.1 8B Instant Inference.**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?style=for-the-badge&logo=vercel)](https://sanket-kakad-multi-pdf-advanced-rag.vercel.app/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/bh_6XDT8_zY)
 [![Groq API](https://img.shields.io/badge/LLM-Groq%20Llama%203.1%208B-orange?style=for-the-badge)](https://sanket-kakad-multi-pdf-advanced-rag.vercel.app/)
 
-🌐 **Live Production App**: [https://sanket-kakad-multi-pdf-advanced-rag.vercel.app/](https://sanket-kakad-multi-pdf-advanced-rag.vercel.app/)
+🌐 **Live Production App**: [https://sanket-kakad-multi-pdf-advanced-rag.vercel.app/](https://sanket-kakad-multi-pdf-advanced-rag.vercel.app/)  
+🎬 **YouTube Video Demo**: [https://youtu.be/bh_6XDT8_zY](https://youtu.be/bh_6XDT8_zY)
 
 ---
 
